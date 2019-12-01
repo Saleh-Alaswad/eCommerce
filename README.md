@@ -1,7 +1,7 @@
 # eCommerce
 
-Flutter eCommerce App created for iOS
-(photos from [unsplash.com])
+Flutter eCommerce App created for iOS<br/>
+(photos from ![unsplash.com])
 
 # Screenshots
 
