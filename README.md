@@ -9,6 +9,6 @@ photos from [unsplash.com](https://www.unsplash.com)
 
 # About me
 
-Saleh Alaswad
-Cross-Platform developer
+Saleh Alaswad<br/>
+Cross-Platform developer<br/>
 saleh.alaswad03@gmail.com
