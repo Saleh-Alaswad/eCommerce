@@ -1,0 +1,89 @@
+{
+    "clothing": {
+        "Shoes": [
+            {
+                "id": "111",
+                "title": "Nike",
+                "image": "assets/shoes1.jpg",
+                "price": 59.97,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+            },
+            {
+                "id": "112",
+                "title": "Nike Sneakers",
+                "image": "assets/shoes2.jpg",
+                "price": 75.97,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+            },
+            {
+                "id": "113",
+                "title": "Nike Lorem",
+                "image": "assets/shoes3.jpg",
+                "price": 69.49,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+            },
+            {
+                "id": "114",
+                "title": "Nike",
+                "image": "assets/shoes4.jpg",
+                "price": 49.49,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+            }
+        ],
+        "Shirts": [
+            {
+                "id": "115",
+                "title": "T-Shirt",
+                "image": "assets/tshirt1.jpg",
+                "price": 15.00,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy"
+            },
+            {
+                "id": "115",
+                "title": "T-Shirt Lorem ipsum",
+                "image": "assets/tshirt2.jpg",
+                "price": 59.97,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy"
+            },
+            {
+                "id": "115",
+                "title": "T-Shirt Lorem",
+                "image": "assets/tshirt3.jpg",
+                "price": 23.50,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy"
+            }
+        ],
+        "Jackets": [
+            {
+                "id": "121",
+                "title": "Jacket",
+                "image": "assets/jacket1.jpg",
+                "price": 109.99,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+            },
+            {
+                "id": "121",
+                "title": "Jacket Lorem",
+                "image": "assets/jacket2.jpg",
+                "price": 90.00,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+            },
+            {
+                "id": "121",
+                "title": "Jacket Lorem ipsum",
+                "image": "assets/jacket3.jpg",
+                "price": 69.90,
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+            }
+        ],
+        "Sweaters": [
+            {
+                "id": "124",
+                "title": "Sweater",
+                "image": "assets/sweater1.jpg",
+                "price": 59.97,
+                "description": "Lorem ipsum dolor sit amet"
+            }
+        ]
+    }
+}
